@@ -1,0 +1,7 @@
+source https://www.nuget.org/api/v2/
+
+nuget Microsoft.AspNet.WebApi.OwinSelfHost
+nuget Suave
+nuget Http.fs
+nuget FSharp.Data.SqlClient
+nuget FSharp.Data

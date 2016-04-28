@@ -1,0 +1,77 @@
+16/11/2015 21:02:00	This log contains information about the import schema operation into project 'AdventureWorks' on computer 'WORK-LAPTOP' by user 'Isaac'.
+16/11/2015 21:02:00	Import of database schema has started.
+16/11/2015 21:02:04	Gathering database options
+16/11/2015 21:02:04	Gathering users
+16/11/2015 21:02:04	Gathering roles
+16/11/2015 21:02:04	Gathering application roles
+16/11/2015 21:02:04	Gathering role memberships
+16/11/2015 21:02:04	Gathering filegroups
+16/11/2015 21:02:04	Gathering full-text catalogs
+16/11/2015 21:02:04	Gathering assemblies
+16/11/2015 21:02:04	Gathering certificates
+16/11/2015 21:02:04	Gathering asymmetric keys
+16/11/2015 21:02:04	Gathering symmetric keys
+16/11/2015 21:02:04	Gathering encrypted symmetric keys
+16/11/2015 21:02:04	Gathering schemas
+16/11/2015 21:02:04	Gathering XML schema collections
+16/11/2015 21:02:04	Gathering user-defined data types
+16/11/2015 21:02:04	Gathering user-defined types
+16/11/2015 21:02:04	Gathering table types
+16/11/2015 21:02:04	Gathering unique keys for table types
+16/11/2015 21:02:04	Gathering primary keys for table types
+16/11/2015 21:02:04	Gathering indexes for table types
+16/11/2015 21:02:04	Gathering check constraints for table types
+16/11/2015 21:02:04	Gathering default constraints for table types
+16/11/2015 21:02:04	Gathering partition functions
+16/11/2015 21:02:04	Gathering partition schemes
+16/11/2015 21:02:04	Gathering functions
+16/11/2015 21:02:04	Gathering encrypted functions
+16/11/2015 21:02:04	Gathering aggregates
+16/11/2015 21:02:04	Gathering procedures
+16/11/2015 21:02:04	Gathering encrypted procedures
+16/11/2015 21:02:04	Gathering tables
+16/11/2015 21:02:04	Gathering primary keys
+16/11/2015 21:02:04	Gathering unique constraints
+16/11/2015 21:02:04	Gathering foreign keys
+16/11/2015 21:02:04	Gathering default constraints
+16/11/2015 21:02:04	Gathering check constraints
+16/11/2015 21:02:04	Gathering views
+16/11/2015 21:02:04	Gathering encrypted views
+16/11/2015 21:02:04	Gathering indexes
+16/11/2015 21:02:04	Gathering statistics
+16/11/2015 21:02:04	Gathering full-text index stoplists
+16/11/2015 21:02:04	Gathering search property lists
+16/11/2015 21:02:04	Gathering search properties
+16/11/2015 21:02:05	Gathering full-text indexes
+16/11/2015 21:02:05	Gathering column store indexes
+16/11/2015 21:02:05	Gathering spatial indexes
+16/11/2015 21:02:05	Gathering XML indexes
+16/11/2015 21:02:05	Gathering Selective XML indexes
+16/11/2015 21:02:05	Gathering encrypted triggers
+16/11/2015 21:02:05	Gathering triggers
+16/11/2015 21:02:05	Gathering encrypted and clr ddl triggers
+16/11/2015 21:02:05	Gathering ddl triggers
+16/11/2015 21:02:05	Gathering synonyms
+16/11/2015 21:02:05	Gathering defaults
+16/11/2015 21:02:05	Gathering data constraint uddt bindings
+16/11/2015 21:02:05	Gathering rules
+16/11/2015 21:02:05	Gathering data constraint uddt bindings
+16/11/2015 21:02:05	Gathering message types
+16/11/2015 21:02:05	Gathering queues
+16/11/2015 21:02:05	Gathering contracts
+16/11/2015 21:02:05	Gathering services
+16/11/2015 21:02:05	Gathering event notifications
+16/11/2015 21:02:05	Gathering remote service bindings
+16/11/2015 21:02:05	Gathering broker priorities
+16/11/2015 21:02:05	Gathering signatures
+16/11/2015 21:02:05	Gathering data compression options
+16/11/2015 21:02:05	Gathering sequence types
+16/11/2015 21:02:05	Gathering extended properties
+16/11/2015 21:02:05	Gathering credentials
+16/11/2015 21:02:05	Gathering logins
+16/11/2015 21:02:05	Gathering server audits
+16/11/2015 21:02:05	Scanning project for duplicate elements
+16/11/2015 21:02:05	Finished duplicate element processing
+16/11/2015 21:02:08	Finished importing database.
+16/11/2015 21:02:08	A summary of the import was saved to the following location: C:\Users\Isaac\Documents\Visual Studio 2015\Projects\DataAccess\AdventureWorks\Import Schema Logs\AdventureWorks_20151116080200.log
+16/11/2015 21:02:08	Click Finish to continue...

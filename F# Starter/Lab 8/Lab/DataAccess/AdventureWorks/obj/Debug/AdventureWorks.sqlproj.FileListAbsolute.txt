@@ -1,0 +1,5 @@
+D:\F# Starter\Lab 8\Lab\DataAccess\AdventureWorks\bin\Debug\AdventureWorks.dacpac
+D:\F# Starter\Lab 8\Lab\DataAccess\AdventureWorks\bin\Debug\AdventureWorks.dll
+D:\F# Starter\Lab 8\Lab\DataAccess\AdventureWorks\bin\Debug\AdventureWorks.pdb
+D:\F# Starter\Lab 8\Lab\DataAccess\AdventureWorks\obj\Debug\AdventureWorks.dll
+D:\F# Starter\Lab 8\Lab\DataAccess\AdventureWorks\obj\Debug\AdventureWorks.pdb
